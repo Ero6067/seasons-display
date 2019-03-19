@@ -1,7 +1,7 @@
 Import React from 'react';
 
 const SeasonDisplay = () => {
-  return <div>Season Dispplay</div>;
+  return <div>Season Display</div>;
 
 };
 

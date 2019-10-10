@@ -2,7 +2,7 @@
 
 Written by Kris Lafrance
 
-Uses HTML5, Javascript, React
+Uses HTML5, Javascript, React, Semantic UI
 
 # Features
 
@@ -15,3 +15,4 @@ Uses HTML5, Javascript, React
 - `cd <folder location>`
 - `npm install`
 - `npm start`
+- `go to localhost:3000`
